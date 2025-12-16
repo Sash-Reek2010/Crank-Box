@@ -3,6 +3,11 @@
 So this is basically a box which opens and closes when you crank it. I created it to store my pencils but you can put basically anything inside because its big enough (it had to be, to accommodate the gear mechanism). It is completely mechanical so no electronics involved and i modelled it all in Fusion! I didnt use a full guide and this is only my second 3D modelling project so it might not be perfect. 
 ## The Principle
 So the way this works is that there isa crank that drives a small gear which then drives anther large gear that changes the rotational motion to linear motion (a very common gear mechanism) The up and down motion is used to open and close the box. The degree of open-ness and close-ness of the box can be adjusted based on the gear ratios. 
+## Mechanism
+A close up of how it might look like once assembled.<img width="939" height="840" alt="Screenshot 2025-12-13 221841" src="https://github.com/user-attachments/assets/d2acf6f6-2210-4647-8f25-dc481c3113da" />
+<img width="1155" height="757" alt="Screenshot 2025-12-13 222449" src="https://github.com/user-attachments/assets/623ee66e-143c-42ba-9373-9eb2ad916f49" />
+<img width="837" height="668" alt="Screenshot 2025-12-13 222057" src="https://github.com/user-attachments/assets/b32ea62b-4d30-4b45-9268-e3a519eb324d" />
+
 ## CAD Model
 I modelled this in Fusion 360 and this project has three parts to it. The bottom, The top and The gears + misc.
 ### The Bottom
@@ -12,6 +17,11 @@ This is a straightforward part. Its just a slab of plastic with a tiny hole whic
 
 ### The Gears
 This is the part that took THE LONGEST to make ;-; I had a lot of trouble and had to go look up tutorials to make just parts of the gear mechanism. Its basically two gears of 8 and 32 teeth. In which the smaller gear attaches to the crank. so for every two turns of the crank the box would open, and then for the next two it would close. I also modelled the crank and a connector with its pin which would be used to attach it to the top. I'm really proud of myself because i have very minimal experience with CAD and 3D design. <img width="1183" height="656" alt="Screenshot 2025-12-12 220809" src="https://github.com/user-attachments/assets/9b2cd29e-9dc1-4369-918c-f45322bccf6b" />
+## Final Model 
+This is how the entire thing would look like at the end!<img width="1251" height="864" alt="Screenshot 2025-12-15 165324" src="https://github.com/user-attachments/assets/bc7ef898-2af3-491b-82d8-6c6f93f5016a" />
+<img width="1012" height="803" alt="Screenshot 2025-12-15 165340" src="https://github.com/user-attachments/assets/7fd0703f-cc2a-47e8-8ffe-ce17d7d874eb" />
+
+
 ## Challenges 
 I had a huge problem with visualising how big or how small the components are and spent a long time overthinking and doing random stuff while i could've just used a ruler and physically draw the parts down on paper. It is something i guess would improve with experience in CAD. I also had to use the internet a few times for help when i couldnt do a certain part of the modelling.
 ## Extra Parts
